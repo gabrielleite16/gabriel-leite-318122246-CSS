@@ -1,0 +1,108 @@
+img {
+  border-radius: 30px;
+}
+
+.navbar {
+  display: flex;
+  flex-flow: row wrap;
+  list-style-type: none;
+  list-style: none;
+}
+
+.navbar a {
+  padding: 20px;
+  text-decoration: none;
+  list-style-type: none;
+  display: block;
+  color: black;
+}
+
+.navbar a:hover {
+  text-decoration: none;
+}
+
+ul {
+
+list-style-type: none;
+
+}
+
+table {
+  color: white;
+  width: 50%;
+  right: 50px;
+  text-align: center;
+}
+
+#cora {
+  background-color: #5A5537;
+}
+
+#corb {
+  background-color: #A59A67;
+}
+
+#corc {
+  background-color: #607334;
+}
+
+#cord {
+  background-color: #5B125A;
+}
+
+#core {
+  background-color: #4181FF;
+}
+
+#corf {
+  background-color: #FF497C;
+}
+
+#corg {
+  background-color: #FF2600;
+}
+
+#corh {
+  background-color: #B5B5B5;
+}
+
+#cori {
+  background-color: #505050;
+}
+
+#corj {
+  background-color: #0D0D0D;
+}
+
+#cork {
+  background-color: #C3D7E9;
+}
+
+#corl {
+  background-color: #6461DD;
+}
+
+#corm {
+  background-color: #11314F;
+}
+
+#corn {
+  background-color: #921101;
+}
+
+#coro {
+  background-color: #FF7202;
+}
+
+#corp {
+  background-color: #FFB5D0;
+}
+
+#corq {
+  background-color: #FFFC00;
+}
+
+#corr {
+  background-color: #008D00;
+}
+
